@@ -14,6 +14,6 @@
 - ⚡️ Fun fact: I'm a huge fan of Football
 
 ## ⚡ Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamandarbekYRv&show_icons=true&theme=gotham" alt="SamandarbekYR"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamandarbekYR&show_icons=true&theme=gotham" alt="SamandarbekYR"/>
 
 <p align="center"> <a href="https://github.com/SamandarbekYR"></a> </p>
